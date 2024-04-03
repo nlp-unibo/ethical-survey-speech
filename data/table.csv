@@ -1,0 +1,39 @@
+﻿Dataset,Source of Content,Target Issue,C1,C2,C3,C4,C5-a,C5-b,C5-c,C5-d,C5-e,C5-f,C5-g,C5-h,C5-i,C6 - a,C6 - b,C6 - c,C6-d,C6-e,C7-a,C7-b
+Chinese Multimodal Depression Corpus (CMDC),CI,DP,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes
+EMU,"CS, SR, SS","AX, DP",Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes
+Moodable,"CS, SR",DP,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No
+"Jiang et al. ",CI,DP,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No
+"Lin et al. ",CI,"AX, DP",Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No
+StudentSADD,"CI, CS",DP,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No
+"The Androids Corpus
+","CI, SR",DP,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes
+MODMA,CI,DP,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes
+Japanese Daily Speech Dataset (JDSD),"CS, SS","AX, DP",No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No
+DEPAC,CS,"AX, DP",No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes
+DAIC-WoZ,CI,DP,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes
+EATD-Corpus,CI,DP,Yes,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,Yes,No
+"Depression Severity Interviews Database ",CI,DP,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes
+"Guo et al. ",CI,DP,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No
+Black Dog Institute,CI,DP,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes
+D-Vlog,YT,DP,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Kempler,"SS, ST",DM,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,Yes
+VAS Corpus,ST,DM,,,,,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No
+Delaware - part of DementiaBank,SR,AL,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+"ADReSS ",SS,AL,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes,Yes
+Ivanova,SR,AL,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,No,Yes,Yes
+"Famous People dataset
+",SS,AL,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+DementiaBank English Pitt Corpus,CI,AL,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No
+Bipolar Disorder Corpus,CI,BD,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,Yes,No
+AMoSS Interview Dataset,CI,BD,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes
+Personalized Characterization of Emotional States in Patients with Bipolar Disorder,CI,BD,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No
+The PRIORI Emotion Dataset,"CI, SS",BD,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No
+Shenzhen Somatisation Speech Corpus,ST,SSD,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,No,Yes,No
+StressID,ST,S,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes
+MuSE,ST,S,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Yes,Yes
+SUSAS,"CI, ST",S,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No
+" I Feel Stressed Out",ST,S,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No
+Ye,SFT,P,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No
+Parkinson Speech Dataset,SR,P,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,Yes
+New Spanish speech corpus database for the analysis of people suffering from Parkinson’s disease,"SR, SS, ST",P,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,,Yes,No,Yes,No,No,Yes,Yes
+WSM Corpus,YT,"DP, P",No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No

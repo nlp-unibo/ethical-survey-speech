@@ -1,0 +1,45 @@
+Dataset;Source;Target Issue;C1;C2;C3;C4;C5-a;C5-b;C5-c;C5-d;C5-e;C5-f;C5-g;C5-h;C5-i;C6-a;C6-b;C6-c;C6-d;C6-e;C7-a;C7-b
+\shortcite{daic_woz};CI,;DP, AX, PTSD;1;;1;;1;;;;;;;;;;;;;;1;1
+\shortcite{guo};CI;DP;1;;;1;1;1;1;1;;;;;;1;;1;1;;1;
+\shortcite{jdsd};CS, SS;DP, AX;;;;;1;1;1;;;;;;1;;;;;;;
+\shortcite{modma};CI;DP;1;1;1;1;1;1;1;;;;;;;1;1;1;;;1;1
+\shortcite{dvlog};YT;DP;;;1;;1;;1;;;;;;;;;;;;;
+\shortcite{jiang};CI;DP;;;;1;1;1;1;;;;;;;;;1;;;1;
+\shortcite{android_corpus};CI, SR;DP;1;;1;1;1;1;1;1;;;;1;;;1;1;1;;1;1
+\shortcite{depac};CS;DP, AX;;;;1;1;1;1;1;;1;;1;1;;;1;;;1;1
+\shortcite{black_dog};CI;DP;1;;;1;1;1;;;;1;;1;;1;;1;1;;1;1
+\shortcite{depression_severity};CI;DP;;;;;1;1;;;;;;;;;;1;1;;1;1
+\shortcite{moodable};CS, SR;DP;1;1;;;;;;;;;;;1;;;;;;;
+\shortcite{emu};CS, SR, SS;DP, AX;1;1;1;1;;;;;;;;;1;;1;;;;1;1
+(CMDC);CI,;DP;1;;1;1;1;1;1;;;1;;1;;1;1;1;1;;1;1
+\shortcite{studentsadd};CI, CS,;DP, SI;1;1;1;1;1;1;;1;1;1;;1;1;;1;;;;1;
+\shortcite{wellbeing};CI,;DP, AX, SSD, S;1;;;;1;1;;;;;;1;1;;;;;;1;1
+\shortcite{lin}.;CI,;DP, AX;1;;;;1;1;1;;;;;1;1;;;;;;1;
+EATD-Corpus;CI,;DP;1;;;;1;;;;;;;1;;;1;;;;1;
+AMCAPSAA;SR;AX;;;;;1;1;1;;;;;;1;;;;;;1;1
+VAS Corpus;ST;DM;;;;;1;1;1;;;;;1;;;;;;;1;
+\shortcite{kempler};ST, SS;DM;;;;;1;1;;1;;;;;;;;1;;;1;1
+Famous People Speech;SS;AL;;;;;1;;;;;;;;;;;;;;;
+Ivava;SR;AL;1;;;1;1;1;1;1;;;;;;1;;1;;;1;1
+DMBank English Pitt Corpus;CI,;AL;1;;;;1;1;1;1;;;;;;;;1;;;;
+Delaware - part of DMBank;SR;AL;1;1;;1;1;1;1;1;;1;;;1;1;1;;;1;1;1
+ADReSS;SS;AL;;1;;1;1;1;1;;;;;1;;;1;;;;1;1
+\shortcite{bipolar_disorder_corpus};CI;BD;;;;;1;1;1;1;;;;1;;;;1;1;;1;
+\shortcite{priori};CI, SS;BD;;1;;1;1;;;;;;;;;1;;1;;;1;
+\shortcite{pers_bd};CI;BD;1;;1;1;1;;;;;;;;;;;1;;;;
+\shortcite{amoss};CI;BD;1;;;1;1;1;1;;;;;;;;;1;1;;;1
+Greek Corpus of Aphasic Discourse;SR;AP;1;;;1;1;1;1;1;;;;;;;;;;;1;1
+\shortcite{aphasia_bank};ST;AP;;1;;1;1;;;;1;;;;;;1;;;;1;
+CoDAS [is a pilot study];ST, SS;AP;;;;1;1;;;;;;;;;;;1;;;1;
+Spnish Speech;ST, SR, SS;P;1;;;1;1;1;1;;;;1;1;;1;;1;;;1;1
+Sakar et al. \shortcite{parkinson_speech_dataset};SR;P;;;;1;1;1;1;;;;;;;1;;1;;;1;1
+Ye;SFT;P;1;;;1;1;1;1;1;;;1;;;;;;;;1;
+\shortcite{wsm_corpus};YT;P, DP;;;;;;;;;;;;;;;;;;;;
+\shortcite{suicidal_veterans};CS, SS;SI;;;;1;1;1;1;;;;;1;;;;1;;;1;1
+\shortcite{emass};CS, SS;SI;;1;;;1;;;;;;;;;;;;;;1;
+\shortcite{shenzen};ST;SSD;1;1;;1;1;1;1;;;;;1;;1;;;;;1;
+\shortcite{muse};ST;S;;;;;;;1;1;;;;;;1;;;;;1;
+\shortcite{stress_id};ST;S;1;1;1;1;;1;1;1;;;;1;;1;;;;;1;1
+\shortcite{stressed_out};ST;S;;;1;1;;;;;;;;;;;;;;;1;
+\shortcite{susas};CI, ST;S;;;;;;1;1;;;;;;;;;;;;1;
+Total;;;18;7;7;18;30;24;20;11;2;5;2;12;9;8;9;15;6;1;27;17

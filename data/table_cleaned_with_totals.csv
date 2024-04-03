@@ -1,0 +1,40 @@
+;Dataset;Source of Content;Target Issue;C1;C2;C3;C4;C5-a;C5-b;C5-c;C5-d;C5-e;C5-f;C5-g;C5-h;C5-i;C6 - a;C6 - b;C6 - c;C6-d;C6-e;C7-a;C7-b
+0;Chinese Multimodal Depression Corpus (CMDC);CI;DP;1.0;;1.0;1.0;1;1;1;;1;;;1;;1;1;1;1;;1;1
+1;EMU;CS, SR, SS;AX, DP;1.0;1.0;1.0;1.0;;;;;;;;;1.0;;1;;;;1;1
+2;Moodable;CS, SR;DP;1.0;1.0;;;;;;;;;;;1.0;;;;;;;
+3;Jiang et al. ;CI;DP;;;;1.0;1;1;1;;1;;;;;;;1;;;1;
+4;Lin et al. ;CI;AX, DP;1.0;;;;1;1;1;;1;;;1;1.0;;;;;;1;
+5;StudentSADD;CI, CS;DP;1.0;1.0;1.0;1.0;1;1;;1;1;1;;1;1.0;;1;;;;1;
+6;"The Androids Corpus
+";CI, SR;DP;1.0;;1.0;1.0;1;1;1;1;1;;;1;;;1;1;1;;1;1
+7;MODMA;CI;DP;1.0;1.0;1.0;1.0;1;1;1;;1;;;;;1;1;1;1;;1;1
+8;Japanese Daily Speech Dataset (JDSD);CS, SS;AX, DP;;;;;1;1;1;;1;;;;1.0;;;;;;;
+9;DEPAC;CS;AX, DP;;;;1.0;1;1;1;1;1;;;1;1.0;;;1;;;1;1
+10;DAIC-WoZ;CI;DP;1.0;;1.0;;1;;;;1;;;;;;;;;;1;1
+11;EATD-Corpus;CI;DP;1.0;;;;1;;;;1;;;1;;;1;;;;1;
+12;Depression Severity Interviews Database ;CI;DP;;;;;1;1;;;1;;;;;;;1;1;;1;1
+13;Guo et al. ;CI;DP;1.0;;;1.0;1;1;1;1;1;;;;;1;;1;1;;1;
+14;Black Dog Institute;CI;DP;1.0;;;1.0;1;1;;;1;;;1;;1;;1;1;;1;1
+15;D-Vlog;YT;DP;;;1.0;;1;;1;;;;;;;;;;;;;
+16;Kempler;SS, ST;DM;;;;;1;1;;1;;;;;;;;1;;;1;1
+17;VAS Corpus;ST;DM;;;;;1;1;1;;;;;1;;;;;;;1;
+18;Delaware - part of DementiaBank;SR;AL;1.0;1.0;;1.0;1;1;1;1;1;1;;;1.0;1;1;;;1;1;1
+19;ADReSS ;SS;AL;;1.0;;1.0;1;1;1;;;;;1;;;1;;;;1;1
+20;Ivanova;SR;AL;1.0;;;1.0;1;1;1;1;;;;;;1;;1;;;1;1
+21;"Famous People dataset
+";SS;AL;;;;;1;;;;;;;;;;;;;;;
+22;DementiaBank English Pitt Corpus;CI;AL;1.0;;;;1;1;1;1;1;;;;;;;1;;;;
+23;Bipolar Disorder Corpus;CI;BD;;;;;1;1;1;1;1;;;1;;;;1;1;;1;
+24;AMoSS Interview Dataset;CI;BD;1.0;;;1.0;1;1;1;;;;;;;;;1;1;;;1
+25;Personalized Characterization of Emotional States in Patients with Bipolar Disorder;CI;BD;1.0;;1.0;1.0;1;;;;1;;;;;;;1;;;;
+26;The PRIORI Emotion Dataset;CI, SS;BD;;1.0;;1.0;1;;;;;;;;;1;;1;;;1;
+27;Shenzhen Somatisation Speech Corpus;ST;SSD;1.0;1.0;;1.0;1;1;1;;1;;;1;;1;;;;;1;
+28;StressID;ST;S;1.0;1.0;1.0;1.0;;1;1;1;1;;;1;;1;;;;;1;1
+29;MuSE;ST;S;;;;;;;1;1;1;;;;;1;;;;;1;1
+30;SUSAS;CI, ST;S;;;;;;1;1;;;;;;;;;;;;1;
+31; I Feel Stressed Out;ST;S;;;1.0;1.0;;;;;1;;;;;;;;;;1;
+32;Ye;SFT;P;1.0;;;1.0;1;1;1;1;1;;1;;;;;;;;1;
+33;Parkinson Speech Dataset;SR;P;;;;1.0;1;1;1;;;;;;;1;;1;;;1;1
+34;New Spanish speech corpus database for the analysis of people suffering from Parkinson’s disease;SR, SS, ST;P;1.0;;;1.0;1;1;1;;1;;1;1;;1;;1;;;1;1
+35;WSM Corpus;YT;DP, P;;;;;;;;;1;;;;;;;;;;;
+Total Non-Null;37;37;37;21;10;11;22;30;26;24;13;25;3;3;14;8;13;9;18;9;2;29;18
