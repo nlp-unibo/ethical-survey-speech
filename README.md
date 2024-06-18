@@ -1,7 +1,13 @@
-# Survey: Promoting Fairness and Diversity in Speech Datasets 
+# Promoting Fairness and Diversity in Speech Datasets for Mental Health and Neurological Disorders Research
 *Practices and Recommendations for the Cases of Mental and Neurological Health Research*
 
-This GitHub repository contains detailed tables derived from the paper **Promoting Fairness and Diversity in Speech Datasets** (Mancini et al.).  These tables are organized into four subsections, each corresponding to specific aspects of our checklist for evaluating fairness and diversity in speech datasets. Unlike the tables in the original paper, we have augmented them with excerpts from the surveyed papers, providing additional context and insights into the discussed aspects. 
+This GitHub repository contains detailed tables from the paper [**Promoting Fairness and Diversity in Speech Datasets for Mental Health and Neurological Disorders Research**](https://arxiv.org/abs/2406.04116)
+Please cite our work as:
+
+*Eleonora Mancini, Ana Tanevska, Andrea Galassi, Alessio Galatolo, Federico Ruggeri, Paolo Torroni "Promoting Fairness and Diversity in Speech Datasets for Mental Health and Neurological Disorders Research", 2024.*
+
+
+These tables are organized into four subsections, each corresponding to specific aspects of our checklist for evaluating fairness and diversity in speech datasets. Unlike the tables in the original paper, we have augmented them with excerpts from the surveyed papers, providing additional context and insights into the discussed aspects. 
 
 - [Informed Consent (C1), Data Storage and Security (C2), Anonymity and De-Identification (C3), Accountability (C4)](#informed-consent-c1-data-storage-and-security-c2-anonymity-and-de-identification-c3-accountability-c4)
 - [Fairness, Bias and Diversity (C5)](#fairness-bias-and-diversity-c5)
