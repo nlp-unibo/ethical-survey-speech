@@ -4,7 +4,7 @@
 This GitHub repository contains detailed tables from the paper [**Promoting Fairness and Diversity in Speech Datasets for Mental Health and Neurological Disorders Research**](https://arxiv.org/abs/2406.04116)
 Please cite our work as:
 
-*Eleonora Mancini, Ana Tanevska, Andrea Galassi, Alessio Galatolo, Federico Ruggeri, Paolo Torroni "Promoting Fairness and Diversity in Speech Datasets for Mental Health and Neurological Disorders Research", 2024.*
+*Eleonora Mancini, Ana Tanevska, Andrea Galassi, Alessio Galatolo, Federico Ruggeri, Paolo Torroni "Promoting Fairness and Diversity in Speech Datasets for Mental Health and Neurological Disorders Research", to be published in Journal of Artificial Intelligence Research (JAIR), 2025.*
 
 
 These tables are organized into four subsections, each corresponding to specific aspects of our checklist for evaluating fairness and diversity in speech datasets. Unlike the tables in the original paper, we have augmented them with excerpts from the surveyed papers, providing additional context and insights into the discussed aspects. 
