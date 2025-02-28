@@ -1,10 +1,33 @@
 # Promoting Fairness and Diversity in Speech Datasets for Mental Health and Neurological Disorders Research
 *Practices and Recommendations for the Cases of Mental and Neurological Health Research*
 
-This GitHub repository contains detailed tables from the paper [**Promoting Fairness and Diversity in Speech Datasets for Mental Health and Neurological Disorders Research**](https://arxiv.org/abs/2406.04116)
+This GitHub repository contains detailed tables from the paper [**Promoting the Responsible Development of Speech Datasetsfor Mental Health and Neurological Disorders Researchh**](https://jair.org/index.php/jair/article/view/16406/27137)
+
+
 Please cite our work as:
 
-*Eleonora Mancini, Ana Tanevska, Andrea Galassi, Alessio Galatolo, Federico Ruggeri, Paolo Torroni "Promoting Fairness and Diversity in Speech Datasets for Mental Health and Neurological Disorders Research", to be published in Journal of Artificial Intelligence Research (JAIR), 2025.*
+
+*Eleonora Mancini, Ana Tanevska, Andrea Galassi, Alessio Galatolo, Federico Ruggeri, Paolo Torroni "Promoting the Responsible Development of Speech Datasetsfor Mental Health and Neurological Disorders Research", to be published in Journal of Artificial Intelligence Research (JAIR), 2025.*
+
+```
+@article{DBLP:journals/jair/ManciniTGGRT25,
+  author       = {Eleonora Mancini and
+                  Ana Tanevska and
+                  Andrea Galassi and
+                  Alessio Galatolo and
+                  Federico Ruggeri and
+                  Paolo Torroni},
+  title        = {Promoting the Responsible Development of Speech Datasets for Mental
+                  Health and Neurological Disorders Research},
+  journal      = {J. Artif. Intell. Res.},
+  volume       = {82},
+  pages        = {937--972},
+  year         = {2025},
+  url          = {https://doi.org/10.1613/jair.1.16406},
+  doi          = {10.1613/JAIR.1.16406},
+}
+
+```
 
 
 These tables are organized into four subsections, each corresponding to specific aspects of our checklist for evaluating fairness and diversity in speech datasets. Unlike the tables in the original paper, we have augmented them with excerpts from the surveyed papers, providing additional context and insights into the discussed aspects. 
