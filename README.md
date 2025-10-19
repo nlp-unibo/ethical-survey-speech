@@ -1,7 +1,7 @@
 # Promoting Fairness and Diversity in Speech Datasets for Mental Health and Neurological Disorders Research
 *Practices and Recommendations for the Cases of Mental and Neurological Health Research*
 
-This GitHub repository contains detailed tables from the paper [**Promoting the Responsible Development of Speech Datasetsfor Mental Health and Neurological Disorders Researchh**](https://jair.org/index.php/jair/article/view/16406/27137)
+This GitHub repository contains detailed tables from the paper [**Promoting the Responsible Development of Speech Datasetsfor Mental Health and Neurological Disorders Research**](https://jair.org/index.php/jair/article/view/16406/27137)
 
 
 Please cite our work as:
